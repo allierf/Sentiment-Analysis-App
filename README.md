@@ -1,2 +1,2 @@
 # Sentiment-Analysis-App
-JavaScript movie review application
+Java movie review application
