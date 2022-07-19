@@ -1,0 +1,14 @@
+Nov 18, 2020 7:03:22 PM movieReviewClassification.SentimentAnalysisApp$2 itemStateChanged
+INFO: Command chosen, Item = Please select...
+Nov 18, 2020 7:03:22 PM movieReviewClassification.SentimentAnalysisApp$2 itemStateChanged
+INFO: StateChange = 2
+Nov 18, 2020 7:03:22 PM movieReviewClassification.SentimentAnalysisApp$2 itemStateChanged
+INFO: Command chosen, Item =  1. Load new movie review collection (given a folder or a file path).
+Nov 18, 2020 7:03:22 PM movieReviewClassification.SentimentAnalysisApp$2 itemStateChanged
+INFO: StateChange = 1
+Nov 18, 2020 7:03:24 PM movieReviewClassification.SentimentAnalysisApp$1 windowClosing
+INFO: Closing window.
+Nov 18, 2020 7:03:24 PM movieReviewClassification.SentimentAnalysisApp$1 windowClosing
+INFO: Saving database.
+Nov 18, 2020 7:03:24 PM movieReviewClassification.SentimentAnalysisApp$1 windowClosing
+INFO: Ending Program.
